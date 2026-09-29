@@ -1,0 +1,22 @@
+{
+  "devices": [
+    {
+      "id": "1",
+      "name": "Front Door Lock",
+      "type": "Security",
+      "status": "Locked"
+    },
+    {
+      "id": "2",
+      "name": "Living Room Thermostat",
+      "type": "Climate",
+      "status": "72°F"
+    },
+    {
+      "id": "3",
+      "name": "Garage Lights",
+      "type": "Lighting",
+      "status": "Off"
+    }
+  ]
+}
